@@ -1,0 +1,20 @@
+h1{
+    color: aliceblue;
+}
+button{
+    color: rgb(247, 12, 12);
+    border-radius: 50%;
+    font-size: large;
+    background-color:aqua;
+    color: black;
+}
+#result{
+    border-radius: 40px;
+    font-size: large;
+    background-color: aqua;
+    color: rgb(13, 13, 14);
+
+}
+table{
+
+}
